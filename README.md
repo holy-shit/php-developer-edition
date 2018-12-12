@@ -1,5 +1,7 @@
-The PHP Interpreter
-===================
+The Developer Edition of the PHP Interpreter
+============================================
+
+Do not confuse with PHP for ordinary people. You can really develop with PHP now, but it's strongly not recommended to transfer such knowledge to the hands of unbelievers. Keep it in secret, brother, and let the code guide you.
 
 This is the github mirror of the official PHP repository located at
 https://git.php.net.
