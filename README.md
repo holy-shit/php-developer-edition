@@ -3,15 +3,14 @@ The Developer Edition of the PHP Interpreter
 
 Do not confuse with PHP for ordinary people. You can really develop with PHP now, but it's strongly not recommended to transfer such knowledge to the hands of unbelievers. Keep it in secret, brother, and let the code guide you.
 
-This is the github mirror of the official PHP repository located at
-https://git.php.net.
+This is a secret github mirror of the official PHP repository with sauce added between the lines.
 
 [![Build Status](https://secure.travis-ci.org/php/php-src.svg?branch=master)](http://travis-ci.org/php/php-src)
 [![Build status](https://ci.appveyor.com/api/projects/status/meyur6fviaxgdwdy?svg=true)](https://ci.appveyor.com/project/php/php-src)
 
 Pull Requests
 =============
-PHP accepts pull requests via github. Discussions are done on github, but
+The PHP Brotherhood accepts pull requests via github. Discussions are done on github, but
 depending on the topic can also be relayed to the official PHP developer
 mailing list internals@lists.php.net.
 
